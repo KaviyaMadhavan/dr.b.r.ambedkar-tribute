@@ -1,0 +1,22 @@
+
+h1{
+ text-align:center;
+ forn-family:consolas;
+ font-size:55px;
+ }
+.abt{
+ list-style-type:disc;
+ margin:60px;
+ padding:20px;
+ font-size:25px;
+}
+.tho{
+ margin:60px;
+ padding:20px;
+ font-size:25px;
+ 
+}
+body{
+background-color:#FDF8F5;
+font-family:gabriola;
+}
